@@ -18,4 +18,4 @@
 ## 🚀 実行方法
 
 ```bash
-python pentatonic_gui.py
+python pentatonic.py
